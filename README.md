@@ -1,2 +1,2 @@
 # Online_jewelry_shop
-Buy,Sell,Enjoy
+New collection
