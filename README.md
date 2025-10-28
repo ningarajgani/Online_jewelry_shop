@@ -1,2 +1,2 @@
 # Online_jewelry_shop
-New collection
+New collection rings
